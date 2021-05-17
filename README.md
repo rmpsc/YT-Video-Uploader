@@ -1,1 +1,1 @@
-# YT-Video-Uploader
+# YouTube Video Uploader
